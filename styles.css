@@ -1,0 +1,38 @@
+.hr-style {
+    width: 5%;
+    border-top: dotted 5px;
+    color: lightblue;
+}
+
+
+.bodystyle {
+    background-color: rgb(242, 242, 255);
+}
+
+.food-image {
+    width: 400px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ratgif {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title {
+    text-align: center;
+    
+}
+
+.ul-style {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+    display: table;
+    margin: 0 auto;
+}
